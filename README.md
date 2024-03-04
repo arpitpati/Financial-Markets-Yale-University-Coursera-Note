@@ -485,6 +485,8 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 ### Inflation Indexed Debt
 
 * Indexed debt first attempted in Massachusetts, 1780, to help finance Revolutionary War.
+* ![image](https://github.com/arpitpati/Financial-Markets-Yale-University-Coursera-Note/assets/69831081/e4717428-b3ec-4861-af53-13e0bbc239ee)
+
 
 ### Forecasting
 
