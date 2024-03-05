@@ -487,6 +487,10 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * Indexed debt first attempted in Massachusetts, 1780, to help finance Revolutionary War.
 <img width=75% height=75% alt="inflation-indexed-debt" src="https://github.com/arpitpati/Financial-Markets-Yale-University-Coursera-Note/assets/69831081/e4717428-b3ec-4861-af53-13e0bbc239ee">
 
+### Unidad De Fomento
+
+* In economics, money is often defined in terms of the "Three" functions it provides: a store of value, a unit of account and a medium of transaction.
+* Unidad De Fomento means unit of account. Used in Chile during the hyperinflation. The UF was tied to the CPI.
 
 ### Forecasting
 
