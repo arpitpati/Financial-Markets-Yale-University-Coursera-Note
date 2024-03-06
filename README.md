@@ -550,6 +550,8 @@ Cauchy distribution is actually a fat tail distribution, and it looks quite simi
 * But don't enjoy being praised for something they didn't do.
 * As people mature, if they mature successfully, the desire for praise morphs into a desire for praiseworthiness.
 
+<img width=75% height=75% alt="psychology-in-finance" src="https://github.com/arpitpati/Financial-Markets-Yale-University-Coursera-Note/assets/69831081/090e145d-5299-4d41-af85-c60c9d8660c1">
+
 ### Prospect Theory
 
 #### Prospect Theory
